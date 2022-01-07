@@ -40,8 +40,7 @@ const App = () => {
         <C.Aside className='aside'>
           <Aside />
         </C.Aside>
-       
-       
+
         <C.Header className='header'>
           <header >
             <div className="header-left">
@@ -60,11 +59,6 @@ const App = () => {
               </div>
               <div className="button">
                 <button > Nova Jornada + </button>
-                
-
-               
-                
-                
               </div>
             </div>
           </header>
